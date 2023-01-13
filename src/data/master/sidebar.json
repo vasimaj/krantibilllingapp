@@ -1,0 +1,283 @@
+{
+    "navs": [
+        {
+            "title": "master",
+            "menu": [
+                { 
+                    
+                    "text": "dashboard",
+                    "submenu": [
+                        { "href": "/ecommerce", "text": "ecommerce" }
+                       
+                    ]
+                },
+ 
+                { 
+                    
+                    "text": "Master",
+                    "submenu": [
+                        { "href": "/m001", "text": "Type Master" },
+                        { "href": "/m002", "text": "Department Master" },
+                        { "href": "/m003", "text": "User Role Master" },   
+                        { "href": "/m004", "text": "Company Master" },   
+                        { "href": "/m005", "text": "Rack Master" },      
+                        { "href": "/m006", "text": "Tax Master" },        
+                        { "href": "/m007", "text": "Manufacture Company Master" },           
+                        { "href": "/blank-page", "text": "Unit" },
+                        { "href": "/blank-page", "text": "Company " },
+                        { "href": "/blank-page", "text": "ITEM" },
+                        { "href": "/blank-page", "text": "Product" },
+                        { "href": "/blank-page", "text": "Party" },
+                        { "href": "/blank-page", "text": "Branch" },
+                        { "href": "/blank-page", "text": "Customer" },
+                        { "href": "/blank-page", "text": "Account Head" },
+                        {"href":"/blank-page","text":"Balance Sheet Head"}
+                       
+                       
+                    ]
+                },
+                { 
+                 
+                    "text": "Transaction ",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Purchase" },
+                        { "href": "/blank-page", "text": "Purchase Return" },
+                        { "href": "/blank-page", "text": "Sales Invoice " },
+                        { "href": "/blank-page", "text": "Sales Return" },
+                        { "href": "/blank-page", "text": "Purchase Order" },
+                        { "href": "/blank-page", "text": "Delivery Challan " },
+                        { "href": "/blank-page", "text": "Estimate Invoice" },
+                        { "href": "/blank-page", "text": "Party DC Bill Not Received" }
+                    ]
+                },
+                { 
+                    
+                    "text": "Purchase ",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Purchase" },
+                        { "href": "/blank-page", "text": "Purchase Return" },
+                        { "href": "/blank-page", "text": "Party DC Bill Not Received " },
+                        { "href": "/blank-page", "text": "Purchase Order" },
+                        { "href": "/blank-page", "text": "Voucher" },
+                        { "href": "/blank-page", "text": "Report " }
+                        
+                    ]
+                },
+                { 
+                    
+                    "text": "Sales ",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Sales Invoice" },
+                        { "href": "/blank-page", "text": "Sales Return" },
+                        { "href": "/blank-page", "text": "Purchase Order " },
+                        { "href": "/blank-page", "text": "Delivery Challan" },
+                        { "href": "/blank-page", "text": "Estimate Invoice" },
+                        { "href": "/blank-page", "text": "Voucher " },
+                        { "href": "/blank-page", "text": "Report " },
+                        { "href": "/blank-page", "text": "Sales Wholsale " }
+                        
+                        
+                    ]
+                },
+                { 
+                  
+                    "text": "Account ",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Cash Book" },
+                        { "href": "/blank-page", "text": "Bank Deposit" },
+                        { "href": "/blank-page", "text": "Bank Withdraw " },
+                        { "href": "/blank-page", "text": "Bank to Bank Transfer" }
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Branch Sale ",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Sales/ Outworld " },
+                        { "href": "/blank-page", "text": "Voucher" },
+                        { "href": "/blank-page", "text": "Branch Sale Return " },
+                        { "href": "/blank-page", "text": "Report" }
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Stock",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Add Stock Manually " },
+                        { "href": "/blank-page", "text": "Add Loose Stock Manually" },
+                        { "href": "/blank-page", "text": "Product Price List " },
+                        { "href": "/blank-page", "text": "Clear Stock (Qty)" },
+                        { "href": "/blank-page", "text": "Clear Stock (Loose wt.)" },
+                        { "href": "/blank-page", "text": "Inword and Outword Stock" },
+                        { "href": "/blank-page", "text": "Daily Closing Stock" },
+                        { "href": "/blank-page", "text": "Product Purchase Rate" },
+                        { "href": "/blank-page", "text": "Datewise Inword and Outword Stock" }
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Cash Book",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Cash Book " },
+                        { "href": "/blank-page", "text": "Bank Deposit" },
+                        { "href": "/blank-page", "text": "Bank Withdraw " },
+                        { "href": "/blank-page", "text": "Bank to Bank Transfer" }
+                                                
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Utility",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Password Change " },
+                        { "href": "/blank-page", "text": "Backup" }
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Social Tuch",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Bulk Whatsapp" },
+                        { "href": "/blank-page", "text": "Bulk SMS" },
+                        { "href": "/blank-page", "text": "Bulk Email" },
+                        { "href": "/blank-page", "text": "Direct call" },
+                        { "href": "/blank-page", "text": "IVR" }
+                            ]
+                },
+                { 
+                   
+                    "text": "Taleband Report",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Taleband Voucher" },
+                        { "href": "/blank-page", "text": "Terij Patrak" },
+                        { "href": "/blank-page", "text": "Nafa Tota Patrak" },
+                        { "href": "/blank-page", "text": "Vayapari Patrak" }
+                    
+                            ]
+                },
+                { 
+                   
+                    "text": " Report",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Party Wise Report" },
+                        { "href": "/blank-page", "text": "Ledger / Statement" },
+                        { "href": "/blank-page", "text": "Datewise Report" },
+                        { "href": "/blank-page", "text": "Party and Datewise Report" },
+                        { "href": "/blank-page", "text": "Product Wise Report" },
+                        { "href": "/blank-page", "text": "HSN Code Wise Report" }
+                            ]
+                },
+                { 
+                   
+                    "text": "Party Wise Report",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Party Wise Report" },
+                        { "href": "/blank-page", "text": "Ledger / Statement" },
+                        { "href": "/blank-page", "text": "Datewise Report" },
+                        { "href": "/blank-page", "text": "Party and Datewise Report" },
+                        { "href": "/blank-page", "text": "Khat Poch Pavati" },
+                        { "href": "/blank-page", "text": "Third Party Report" },
+                        { "href": "/blank-page", "text": "All Sales Cash/ Credit Report" },
+                        { "href": "/blank-page", "text": "Company Wise Report" }
+                            ]
+                },
+                { 
+                   
+                    "text": "Branch Wise Report",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Branch Wise Report" },
+                        { "href": "/blank-page", "text": "Date Wise Report" },
+                        { "href": "/blank-page", "text": "Branch Statement" },
+                        { "href": "/blank-page", "text": "Today Total Sale Payment Report" },
+                        { "href": "/blank-page", "text": "Branch Wise Product Statement (Sale)" },
+                        { "href": "/blank-page", "text": "Branch Wise Product Type Statement (Sale)" }
+                        
+                            ]
+                },
+                { 
+                   
+                    "text": "Stock Wise Report",
+                    "submenu": [
+                        { "href": "/blank-page", "text": "Total Stock" },
+                        { "href": "/blank-page", "text": "Total Stock With Purchase Price (Items Type)" },
+                        { "href": "/blank-page", "text": "Total Stock With Purchase Price(Company)" },
+                        { "href": "/blank-page", "text": "Total Stock Summary" },
+                        { "href": "/blank-page", "text": "Datewise Inword Stock" },
+                        { "href": "/blank-page", "text": "Datewise Outword Stock (Qty)" },
+                        { "href": "/blank-page", "text": "Datewise Outword Stock (loose Wt.)" },
+                        { "href": "/blank-page", "text": "Product Wise Stock" },
+                        { "href": "/blank-page", "text": "Company Wise Stock" },
+                        { "href": "/blank-page", "text": "Add Manually Stock Report" },
+                        { "href": "/blank-page", "text": "Opening / Inword / Outword Stock Report" },
+                        { "href": "/blank-page", "text": "Date Wise Total Stock Summery With Purchase Rate" }
+                       
+                        
+                            ]
+                },
+                { 
+                    "icon": "lock", 
+                    "text": "authentication",
+                    "submenu": [
+                        { "href": "/login", "text": "login" },
+                        { "href": "/register", "text": "registration" },
+                        { "href": "/forgot-password", "text": "forgot password" }
+                    ]
+                },
+                { 
+                    "href": "#",
+                    "icon": "article", 
+                    "text": "invoices",
+                    "submenu": [
+                        { "href": "/invoice-list", "text": "invoice list" },
+                        { "href": "/invoice-details", "text": "invoice details" }
+                    ]
+                },
+                { 
+                    "icon": "account_circle", 
+                    "text": "users", 
+                    "badge": { "text": "hot", "variant": "red square" },
+                    "submenu": [
+                        { "href": "/user-list", "text": "user list" },
+                        { "href": "/user-profile", "text": "user profile" },
+                        { "href": "/my-account", "text": "my account" }
+                    ]
+                },
+                { 
+                    "href": "/settings",
+                    "icon": "settings", 
+                    "text": "settings" 
+                }
+            ]
+        },
+        
+        {
+            "title": "supports",
+            "menu": [
+                {
+                    "href": "/",
+                    "icon": "streetview",
+                    "text": "overview"
+                },
+                { 
+                    "href": "/documentation",
+                    "icon": "menu_book", 
+                    "text": "Documentation"
+                },
+                { 
+                    "href": "/changelog",
+                    "icon": "layers", 
+                    "text": "change log",
+                    "badge": { "text": "v1.0", "variant": "primary square" }
+                }
+                
+            ]
+        }
+    ],
+    "button": { "icon": "lock", "path": "/login", "text": "logout" }
+
+}
