@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kranti1213/static/css/main.b3eeeea7.css",
+    "main.js": "/kranti1213/static/js/main.e19f1c04.js",
+    "index.html": "/kranti1213/index.html",
+    "main.b3eeeea7.css.map": "/kranti1213/static/css/main.b3eeeea7.css.map",
+    "main.e19f1c04.js.map": "/kranti1213/static/js/main.e19f1c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eeeea7.css",
+    "static/js/main.e19f1c04.js"
+  ]
+}
